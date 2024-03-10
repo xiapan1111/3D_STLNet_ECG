@@ -32,3 +32,11 @@ python main_train_Yao.py
 python main_train_Ribeiro.py
 
 python main_train_Chen.py
+# Citation
+```
+@article{
+  title={Spatio-Temporal 3-Dimentional Variations Modeling with Self-Attention for Multi-Label ECG Classification},
+  journal={IEEE Sensors Journal},
+  year={2024}
+}
+```
